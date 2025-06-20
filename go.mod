@@ -1,4 +1,4 @@
-module github.com/zhuqw12/slurmrestapi/slurmrestapi
+module github.com/zhaochongyuan/slurmrestapi
 
 go 1.18
 
